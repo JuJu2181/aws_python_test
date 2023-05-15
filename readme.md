@@ -1,7 +1,9 @@
 # A Beginner’s Guide to Data Engineering: Harnessing the Power of Python to Access AWS Services
+![Blog Image](blog_img.png)
 - This repo illustrates how you can access AWS services programmatically using Python.
 - This repo contains code for the blog [A Beginner’s Guide to Data Engineering: Harnessing the Power of Python to Access AWS Services]()
 - Here I have provided a detailed step-by-step guide to easily setup boto3 SDK and use this SDK to programatically access AWS services using Python
+
 
 ## Written By:
 - **Anish Shilpakar**
